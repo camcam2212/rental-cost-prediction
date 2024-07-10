@@ -1,0 +1,761 @@
+﻿Title,Price,Area,Location,type
+"Cho thuê nhà đẹp mặt phố MINH KHAI, DT 70m2x7 tầng, MT 10m, Giá 115tr",Giá: 115 triệu / tháng,"Diện tích: 70 m
+2","Đường Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố HÒA MÃ, DT 60m2x4 tầng, MT 6m, Giá 80tr",Giá: 80 triệu / tháng,"Diện tích: 60 m
+2","Phố Hòa Mã, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHỐ HUẾ, DT 32m2+lửng 10m, MT 4.5m, Giá 25tr",Giá: 25 triệu / tháng,"Diện tích: 42 m
+2","Phố Huế, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà căn góc mặt phố NGUYỄN DU, QUANG TRUNG, DT đất 420m2, xây 250m2x2 tầng,MT 30m",Giá: 365 triệu / tháng,"Diện tích: 420 m
+2","Đường Nguyễn Du, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TRIỆU VIỆT VƯƠNG, DT 240m2x3 tầng+1 lửng (180m2), MT 11m, Giá 10000$",Giá: 240 triệu / tháng,"Diện tích: 240 m
+2","Phố Triệu Việt Vương, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TÔ HIẾN THÀNH, DT 235m2x8 tầng+2 hầm, MT 9.3m, Giá 650tr",Giá: 650 triệu / tháng,"Diện tích: 235 m
+2","Phố Tô Hiến Thành, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TÔN ĐỨC THẮNG, DT 180m2x8 tầng+hầm, MT 7m, Giá 200tr",Giá: 200 triệu / tháng,"Diện tích: 180 m
+2","Phố Tôn Đức Thắng, Phường Cát Linh, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố AN TRẠCH, DT 68m2x8 tầng, MT 4.5m, Giá 60tr",Giá: 60 triệu / tháng,"Diện tích: 68 m
+2","Phố An Trạch, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố MINH KHAI, DT 60m2x4 tầng+hầm, MT 5m, Giá 100tr",Giá: 100 triệu / tháng,"Diện tích: 60 m
+2","Đường Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố BÀ TRIỆU, DT 60m2, MT 5m, Giá 40tr",Giá: 40 triệu / tháng,"Diện tích: 60 m
+2","Phố Bà Triệu, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố MAI HẮC ĐẾ, DT 180m2x3 tầng, MT 8m, Giá 130tr",Giá: 130 triệu / tháng,"Diện tích: 180 m
+2","Phố Mai Hắc Đế, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố NGUYỄN CÔNG HOÀN, DT 43m2x3 tầng, MT 12m, Giá 60tr",Giá: 60 triệu / tháng,"Diện tích: 43 m
+2","Phố Nguyễn Công Hoan, Phường Ngọc Khánh, Quận Ba Đình, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố KHÂM THIÊN, DT 90m2x2 tầng, MT 4m, Giá 35tr",Giá: 35 triệu / tháng,"Diện tích: 90 m
+2","Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố XÃ ĐÀN, DT 42m2x5 tầng+tum, MT 6m, Giá 49tr",Giá: 42 triệu / tháng,"Diện tích: 42 m
+2","Phố Xã Đàn, Phường Nam Đồng, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHỐ HUẾ, DT 162m2x4 tầng, MT 4m, Giá 63tr",Giá: 63 triệu / tháng,"Diện tích: 162 m
+2","Phố Huế, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố XÃ ĐÀN, DT 60m2x2 tầng, MT 12.5m, Giá 70tr",Giá: 70 triệu / tháng,"Diện tích: 60 m
+2","Phố Xã Đàn, Phường Phương Liên, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TRẦN XUÂN SOẠN, DT 55m2, MT 3m, Giá 26tr",Giá: 26 triệu / tháng,"Diện tích: 55 m
+2","Phố Trần Xuân Soạn, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố NGUYỄN XIỂN, DT 170m2x4 tầng, MT 10m, Giá 70tr",Giá: 70 triệu / tháng,"Diện tích: 170 m
+2","Đường Nguyễn Xiển, Phường Đại Kim, Quận Hoàng Mai, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố ĐOÀN TRẦN NGHIỆP, DT T1: 200m2, T2: 250m2, MT 9m, Có thuê lẻ",Giá: 100 triệu / tháng,"Diện tích: 250 m
+2","Phố Đoàn Trần Nghiệp, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố THI SÁCH, DT 120m2x4 tầng + hầm, MT 5m",Giá: 80 triệu / tháng,"Diện tích: 120 m
+2","Phố Thi Sách, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố NGUYỄN HY QUANG, DT 120m2x3 tầng, MT 9m, Giá 120tr",Giá: 120 triệu / tháng,"Diện tích: 120 m
+2","Phố Nguyễn Hy Quang, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà căn góc HUỲNH THÚC KHÁNG vs NGUYỄN CHÍ THANH, DT 150m2 hoặc 290m2, MT 20m",Giá: 130 triệu / tháng,"Diện tích: 290 m
+2","Phố Huỳnh Thúc Kháng, Phường Láng Hạ, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố MAI HẮC ĐẾ, DT 70m2x9 tầng, MT 5m, Giá 100tr",Giá: 100 triệu / tháng,"Diện tích: 70 m
+2","Phố Mai Hắc Đế, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TRUNG HÒA, DT 135m2x5 tầng, MT 6m, Giá 80tr",Giá: 80 triệu / tháng,"Diện tích: 135 m
+2","Đường Trung Hòa, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố XUÂN DIỆU, DT 250m2x4 tầng, MT 11m, Giá 6000$",Giá: 140 triệu / tháng,"Diện tích: 250 m
+2","Đường Xuân Diệu, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố DUY TÂN, DT 70m2x6 tầng, MT 5m, Giá 75tr",Giá: 75 triệu / tháng,"Diện tích: 70 m
+2","Phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố THÁI HÀ, DT 55m2x5 tầng, MT 4m, Giá 45tr",Giá: 45 triệu / tháng,"Diện tích: 55 m
+2","Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố Giảng Võ, DT 175m2x2 tầng, MT 7m+27m, Giá 7000$",Giá: 168 triệu / tháng,"Diện tích: 300 m
+2","Phố Giảng Võ, Phường Cát Linh, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố NGUYỄN TRÃI, DT 60m2x2 tầng, MT 4.5m, Giá 45tr",Giá: 45 triệu / tháng,"Diện tích: 60 m
+2","Đường Nguyễn Trãi, Phường Thượng Đình, Quận Thanh Xuân, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố ĐINH TIÊN HOÀNG, DT T1+lửng 280m2, MT 10m, 500tr",Giá: 500 triệu / tháng,"Diện tích: 280 m
+2","Phố Đinh Tiên Hoàng, Phường Hàng Gai, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHAN CHU TRINH, DT 140m2x8 tầng, MT 10m, Giá 250tr",Giá: 250 triệu / tháng,"Diện tích: 140 m
+2","Phố Phan Chu Trinh, Phường Phan Chu Trinh, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố KHÂM THIÊN, DT 150m2x3 tầng+hầm, MT 5m, Giá 50tr",Giá: 50 triệu / tháng,"Diện tích: 150 m
+2","Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố HÀNG BÔNG, DT 100m2x2 tầng, MT 6m, Giá 80tr",Giá: 80 triệu / tháng,"Diện tích: 100 m
+2","Phố Hàng Bông, Phường Hàng Bông, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHẠM HỒNG THÁI, DT 68m2x6 tầng, MT 5m, Giá 55tr",Giá: 55 triệu / tháng,"Diện tích: 68 m
+2","Phố Phạm Hồng Thái, Phường Trúc Bạch, Quận Ba Đình, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TÂY SƠN, DT 135m2x7 tầng, MT 6m, Giá 130tr",Giá: 130 triệu / tháng,"Diện tích: 135 m
+2","Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHỐ HUẾ, DT 30m2+kho 6m2, MT 4.5m, Giá 25tr",Giá: 25 triệu / tháng,"Diện tích: 36 m
+2","Phố Huế, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố THÁI HÀ, DT 50m2x7 tầng+hầm, MT 6m, Giá 75tr",Giá: 75 triệu / tháng,"Diện tích: 50 m
+2","Phố Thái Hà, Phường Trung Liệt, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TRUNG KÍNH, DT 90m2x9 tầng, MT 6.5m, Giá 200tr",Giá: 200 triệu / tháng,"Diện tích: 90 m
+2","Phố Trung Kính, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố XUÂN LA, DT 445m2x10 tầng+2 hầm, MT 15m, Giá 120tr/tầng",Giá: 120 triệu / tháng,"Diện tích: 445 m
+2","Đường Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TÔN ĐỨC THẮNG, DT 307m2x3 tầng, MT 12.7m, Giá 200tr",Giá: 200 triệu / tháng,"Diện tích: 307 m
+2","Phố Tôn Đức Thắng, Phường Thổ Quan, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TÂY SƠN, 600m2x6 tầng+hầm, MT 21m, Giá 900tr",Giá: 900 triệu / tháng,"Diện tích: 600 m
+2","Phố Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố LÒ ĐÚC, DT 40m2x4 tầng, MT 5m Giá 40tr",Giá: 40 triệu / tháng,"Diện tích: 40 m
+2","Phố Lò Đúc, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHỐ HUẾ, DT 100m2x5 tầng, MT 3.7m, Giá 80tr",Giá: 80 triệu / tháng,"Diện tích: 100 m
+2","Phố Huế, Phường Phố Huế, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố LÝ THÁI TỔ, DT 150m2x3 tầng, MT 10m, Giá 250tr",Giá: 250 triệu / tháng,"Diện tích: 175 m
+2","Phố Lý Thái Tổ, Phường Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TRẦN KHÁT CHÂN, DT 300m2x3 tầng, MT 7m nở hậu, Giá 180tr",Giá: 180 triệu / tháng,"Diện tích: 300 m
+2","Đường Trần Khát Chân, Phường Thanh Nhàn, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố HÀNG BÀI, DTSD 60m2, MT 5m, Giá 55tr",Giá: 55 triệu / tháng,"Diện tích: 60 m
+2","Phố Hàng Bài, Phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TRẦN NHÂN TÔNG, DT 235m2x8 tầng+hầm, MT 6m, Giá 25000$",Giá: 600 triệu / tháng,"Diện tích: 235 m
+2","Phố Trần Nhân Tông, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHỐ HUẾ, DT 90m2x3 tầng dưới, MT 5m, Giá 90tr",Giá: 90 triệu / tháng,"Diện tích: 90 m
+2","Phố Huế, Phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà VIP mặt phố KIM MÃ, DT 350m2x8 tầng+2 hầm, MT 14m, Giá 750tr",Giá: 750 triệu / tháng,"Diện tích: 350 m
+2","Đường Kim Mã, Phường Kim Mã, Quận Ba Đình, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố BẠCH ĐẰNG, DT 200m2x6 tầng, MT 5m, Giá 70tr",Giá: 70 triệu / tháng,"Diện tích: 200 m
+2","Đường Bạch Đằng, Phường Chương Dương, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố NGÔ THÌ NHẬM, DT 345m2x6 tầng, MT 12m, Giá 720tr",Giá: 720 triệu / tháng,"Diện tích: 345 m
+2","Đường Ngô Thì Nhậm, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TÔN ĐỨC THẮNG, DT 150m2x9 tầng+hầm, MT 5m, Giá 220tr",Giá: 220 triệu / tháng,"Diện tích: 150 m
+2","Phố Tôn Đức Thắng, Phường Hàng Bột, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố LÊ VĂN HƯU, DT 100m2x8 tầng, MT 4.5m, Giá 110tr",Giá: 110 triệu / tháng,"Diện tích: 100 m
+2","Phố Lê Văn Hưu, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TRẦN XUÂN SOẠN, DT150m2x3 tầng, MT 6m, Giá 80tr",Giá: 80 triệu / tháng,"Diện tích: 150 m
+2","Phố Trần Xuân Soạn, Phường Ngô Thì Nhậm, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố HÀM LONG, DT 100m2x9 tầng, MT 10m, Giá 190tr",Giá: 190 triệu / tháng,"Diện tích: 100 m
+2","Phố Hàm Long, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố PHÙNG HƯNG, DT 105m2x2 tầng dưới, MT 9.6m, Giá 70tr",Giá: 70 triệu / tháng,"Diện tích: 105 m
+2","Phố Phùng Hưng, Phường Hàng Mã, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố TÔ HIẾN THÀNH, DT 160m2x8 tầng, MT 6m",Giá: 250 triệu / tháng,"Diện tích: 160 m
+2","Phố Tô Hiến Thành, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố MAI HẮC ĐẾ, DT 150m2x6 tầng, MT 5.5m, Giá 125tr",Giá: 125 triệu / tháng,"Diện tích: 150 m
+2","Phố Mai Hắc Đế, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà tòa nhà mặt phố KHÂM THIÊN, DT 377m2x10 tầng, MT 9.77m, Giá 600tr",Giá: 600 triệu / tháng,"Diện tích: 377 m
+2","Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố ĐẠI CỒ VIỆT, DT 195m2x6 tầng dưới + hầm, MT 6.8m, Giá 280tr",Giá: 280 triệu / tháng,"Diện tích: 195 m
+2","Đường Đại Cồ Việt, Phường Lê Đại Hành, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố BÙI THỊ XUÂN, DT 150m2x3 tầng, MT 8m, Giá 180tr",Giá: 180 triệu / tháng,"Diện tích: 150 m
+2","Đường Bùi Thị Xuân, Phường Bùi Thị Xuân, Quận Hai Bà Trưng, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mới đẹp mặt phố NGUYỄN KHANG, DT 120m2x10 tầng, MT 8.1m, Giá 8800$",Giá: 200 triệu / tháng,"Diện tích: 120 m
+2","Đường Nguyễn Khang, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê tầng 2 nhà mặt phố ĐỊNH CÔNG, DT 1050m2, MT 55m, Gía 290tr",Giá: 290 triệu / tháng,"Diện tích: 1.050 m
+2","Đường Định Công, Phường Định Công, Quận Hoàng Mai, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố NGUYỄN THÁI HỌC, DT 200m2x2 tầng, MT 10m, Giá 180tr",Giá: 180 triệu / tháng,"Diện tích: 200 m
+2","Phố Nguyễn Thái Học, Phường Điện Biên, Quận Ba Đình, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố LÝ THƯỜNG KIỆT, DT 200m2x8 tầng+lửng+3 hầm, MT 9m, Giá 20000$",Giá: 480 triệu / tháng,"Diện tích: 200 m
+2","Phố Lý Thường Kiệt, Phường Cửa Nam, Quận Hoàn Kiếm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố KHÂM THIÊN, DT 110m2x8 tầng+hầm, MT 7.3m, Giá 180tr",Giá: 180 triệu / tháng,"Diện tích: 110 m
+2","Phố Khâm Thiên, Phường Khâm Thiên, Quận Đống Đa, Hà Nội",cho_thue_cua_hang
+"Cho thuê góc 2 mặt tiền võ thị 6 và trương định quận 3, 32 x 32, trệt 1ầu, giá 25$ thương",Giá: 550 triệu / tháng,"Diện tích: 1.200 m
+2","Đường Trương Định, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 200a đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",Giá: 230 triệu / tháng,"Diện tích: 400 m
+2","Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 118 Pasteur, P.Bến Nghé, Quận 1, Hồ Chí Minh",Giá: 188 triệu / tháng,"Diện tích: 576 m
+2","Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT Cách Mạng Tháng Tám, Phường 12, Quận 10, Hồ Chí Minh",Giá: 460 triệu / tháng,"Diện tích: 280 m
+2","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền số 118A đường Bùi Thị Xuân, Phường Bến Thành, Quận 1, Hồ Chí Minh. G",Giá: 170 triệu / tháng,"Diện tích: 240 m
+2","Đường Bùi Thị Xuân, Phường Bến Thành, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh.",Giá: 230 triệu / tháng,"Diện tích: 136 m
+2","Đường Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 270-272 đường Hai Bà Trưng, Phường Tân Định, Quận 1, Hồ Chí Minh",Giá: 320 triệu / tháng,"Diện tích: 400 m
+2","Đường Hai Bà Trưng, Phường Tân Định, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê toà nhà 161-161A Hai Bà Trưng, P.06, Q.3, TP.HCM","Giá: 1,5 tỷ / tháng","Diện tích: 3.120 m
+2","Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh",Giá: 375 triệu / tháng,"Diện tích: 300 m
+2","Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 185 đường Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Ch",Giá: 330 triệu / tháng,"Diện tích: 400 m
+2","Đường Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 49 Xuân Thủy, Phường Thảo Điền, Quận 2, Hồ Chí Minh",Giá: 350 triệu / tháng,"Diện tích: 1.500 m
+2","Đường Xuân Thủy, Phường Thảo Điền, Thành phố Thủ Đức, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền số 91a đường Cao Thắng, Phường 3, Quận 3, Hồ Chí Minh",Giá: 700 triệu / tháng,"Diện tích: 3.500 m
+2","Đường Cao Thắng, Phường 3, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 201 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh",Giá: 490 triệu / tháng,"Diện tích: 1.500 m
+2","Đường Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 138-138a Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Hồ Chí Minh",Giá: 250 triệu / tháng,"Diện tích: 700 m
+2","Đường Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền 139B Pasteur, Phường 6, Quận 3, Dt : 8 x 20, 1 trệt 3 lầu.",Giá: 164 triệu / tháng,"Diện tích: 700 m
+2","Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 655-657-659 Lạc Long Quân, Phường 8, Quận Tân Bình, Hồ Chí Minh","Giá: 1,39 tỷ / tháng","Diện tích: 6.500 m
+2","Đường Lạc Long Quân, Phường 8, Quận Tân Bình, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 448 Trường Sa, P.2, Q.Phú Nhuận, Hồ Chí Minh",Giá: 40 triệu / tháng,"Diện tích: 60 m
+2","Đường Trường Sa, Phường 2, Quận Phú Nhuận, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 49 Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh",Giá: 156 triệu / tháng,"Diện tích: 200 m
+2","Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền GÓC 2MT số 256 đường Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3, Hồ Chí Min",Giá: 80 triệu / tháng,"Diện tích: 234 m
+2","Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 148 Nguyễn Trãi, P.Bến Thành, Q.1, Hồ Chí Minh",Giá: 150 triệu / tháng,"Diện tích: 82 m
+2","Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 161 Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh",Giá: 100 triệu / tháng,"Diện tích: 1.200 m
+2","Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà Góc 2MT 183 Đào Duy Anh+ Phỗ quang, phường 9 Phú Nhuận.",Giá: 120 triệu / tháng,"Diện tích: 368 m
+2","Đường Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 227 đường Tạ Uyên, Phường 4, Quận 11, Hồ Chí Minh",Giá: 120 triệu / tháng,"Diện tích: 550 m
+2","Đường Tạ Uyên, Phường 4, Quận 11, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà góc 2MT Hồ Tùng Mậu và Nguyễn Công Trứ, 6 tầng, giá 600 tr",Giá: 600 triệu / tháng,"Diện tích: 700 m
+2","Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+Nhà cho thuê đường 41 Tân quy Q7 dt 4x18 Trệt 3 lầu .19Tr Dt 4x20 gia 26 tr Trệt 3 lầu,Giá: 25 triệu / tháng,"Diện tích: 76 m
+2","Đường Số 41, Phường Tân Quy, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+Cho thuê nhà mt nguyên căn đường số tân quy Dt 4m5 x 20. 1 trệt 3 lầu ST ✅ Giá 23tr Nhà c,Giá: 23 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 39, Phường Tân Quy, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền đường số 37 Quận 7 dt ; 4,5x20 Trệt lung 3 Lầu",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 37, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"✅Cho thuê nhà đường số 25 phường Tân Quy Q7,dt ; 4,5x20m Trệt 3 Lâu",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 15, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+✅Cho thuê nhà đường số phường Tân quy quận 7 dt; 4x20m Trệt 3 lầu Full nội thất giá,Giá: 25 triệu / tháng,"Diện tích: 80 m
+2","Đường Số 43, Phường Tân Quy, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 704 Hậu Giang, Phường 12, Quận 6, Hồ Chí Minh",Giá: 120 triệu / tháng,"Diện tích: 200 m
+2","Đường Châu Văn Liêm, Phường 12, Quận 6, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 160 Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh",Giá: 90 triệu / tháng,"Diện tích: 450 m
+2","Đường Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT 185 Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",Giá: 336 triệu / tháng,"Diện tích: 170 m
+2","Đường Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 24-26 đường Phạm Ngọc Thạch, Phường 6, Quận 3, Hồ Chí Minh",Giá: 770 triệu / tháng,"Diện tích: 1.960 m
+2","Đường Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà góc 2MT Phan Đăng Lưu, P.07, Bình Thạnh, 10x20, trệt 4 lầu, Giá 360 tr/th",Giá: 360 triệu / tháng,"Diện tích: 1.000 m
+2","Đường Phan Đăng Lưu, Phường 7, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền đường số 37 Quận 7 dt ; 4,5x20 Trệt lung 3 Lầu",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 37, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"✅Cho thuê nhà đường số 25 phường Tân Quy Q7,dt ; 4,5x20m Trệt 3 Lâu",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 15, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+✅Cho thuê nhà đường số phường Tân quy quận 7 dt; 4x20m Trệt 3 lầu Full nội thất giá,Giá: 25 triệu / tháng,"Diện tích: 80 m
+2","Đường Số 43, Phường Tân Quy, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 704 Hậu Giang, Phường 12, Quận 6, Hồ Chí Minh",Giá: 120 triệu / tháng,"Diện tích: 200 m
+2","Đường Châu Văn Liêm, Phường 12, Quận 6, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 160 Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh",Giá: 90 triệu / tháng,"Diện tích: 450 m
+2","Đường Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT 185 Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",Giá: 336 triệu / tháng,"Diện tích: 170 m
+2","Đường Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 24-26 đường Phạm Ngọc Thạch, Phường 6, Quận 3, Hồ Chí Minh",Giá: 770 triệu / tháng,"Diện tích: 1.960 m
+2","Đường Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà góc 2MT Phan Đăng Lưu, P.07, Bình Thạnh, 10x20, trệt 4 lầu, Giá 360 tr/th",Giá: 360 triệu / tháng,"Diện tích: 1.000 m
+2","Đường Phan Đăng Lưu, Phường 7, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh",Giá: Thỏa thuận,"Diện tích: 108 m
+2","Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà số 335-337 đường Trần Hưng Đạo, Phường Cầu Kho, Quận 1, Hồ Chí Minh",Giá: 150 triệu / tháng,"Diện tích: 432 m
+2","Đường Trần Hưng Đạo, Phường Cầu Kho, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê Mặt bằng Góc 2 Mặt Tiền Nguyễn Văn Nghi P.7 Quận Gò Vấp,",Giá: 100 triệu / tháng,"Diện tích: 270 m
+2","Đường Nguyễn Văn Nghi, Phường 7, Quận Gò Vấp, Hồ Chí Minh",cho_thue_cua_hang
+"🔥VIP! Hàng hiếm CĂN GÓC 2MT Nguyễn Gia Trí, P25, Quận Bình Thạnh🔥 Giá chỉ 85 triệu!!",Giá: 85 triệu / tháng,"Diện tích: 500 m
+2","Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê biệt thự KĐT Xa La, Hà Đông, Hà Nội.",Giá: 27 triệu / tháng,"Diện tích: 175 m
+2","Đường Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",cho_thue_cua_hang
+"Cho thuê 18 ngủ khép kín Khai Quang, Vĩnh Yên .",Giá: 90 triệu / tháng,"Diện tích: 250 m
+2","Đường Lý Nam Đế, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+Cho thuê 17 phòng ngủ Liên Bảo giá 51tr/tháng.,Giá: 51 triệu / tháng,"Diện tích: 150 m
+2","Đường Nguyễn Tất Thành, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 12 ngủ Thăng Long 3, Bình Xuyên. Lh 0",Giá: 30 triệu / tháng,"Diện tích: 100 m
+2","Phố Tôn Đức Thắng, Xã Thiện Kế, Huyện Bình Xuyên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê 5 ngủ KĐT Hà Tiên, Liên Bảo giá 16tr/tháng.",Giá: 16 triệu / tháng,"Diện tích: 100 m
+2","Quốc lộ 2B, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+Cho thuê 7 ngủ Khai Quang giá 18tr/tháng.,Giá: 18 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Tất Thành, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Liên Bảo, Vĩnh Yên giá 10 tr/tháng.",Giá: 10 triệu / tháng,"Diện tích: 100 m
+2","Quốc lộ 2B, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 4 tầng Tích Sơn, Vĩnh Yên giá 14tr/tháng.",Giá: 14 triệu / tháng,"Diện tích: 100 m
+2","Đường Phạm Văn Đồng, Phường Tích Sơn, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê 5 ngủ KĐT Hà Tiên, Liên Bảo giá 16tr/tháng.",Giá: 16 triệu / tháng,"Diện tích: 100 m
+2","Quốc lộ 2B, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+Cho thuê 7 ngủ Khai Quang giá 18tr/tháng.,Giá: 18 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Tất Thành, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Liên Bảo, Vĩnh Yên giá 10 tr/tháng.",Giá: 10 triệu / tháng,"Diện tích: 100 m
+2","Quốc lộ 2B, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 4 tầng Tích Sơn, Vĩnh Yên giá 14tr/tháng.",Giá: 14 triệu / tháng,"Diện tích: 100 m
+2","Đường Phạm Văn Đồng, Phường Tích Sơn, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Mê Linh, Vĩnh Yên giá 25tr/tháng. LH",Giá: 25 triệu / tháng,"Diện tích: 150 m
+2","Đường Mê Linh, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+Cho thuê biệt thự 06 ngủ Vĩnh Yên. LH,Giá: 20 triệu / tháng,"Diện tích: 200 m
+2","Đường Điện Biên Phủ, Phường Tích Sơn, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Nam Vĩnh Yên, Khai Quang giá 15tr.",Giá: 15 triệu / tháng,"Diện tích: 100 m
+2","Đường Lý Nam Đế, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 5ngủ Liên Bảo, Vĩnh Yên giá 13tr. LH",Giá: 13 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Công Trứ, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 8 ngủ Liên Bảo, Vĩnh Yên giá 16tr. LH",Giá: 16 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Tất Thành, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê mặt đường Tôn Đức Thắng, Vĩnh Yên giá 12tr.",Giá: 12 triệu / tháng,"Diện tích: 100 m
+2","Đường Tôn Đức Thắng, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Lạc Long Quân, Khai Quang giá 16tr.",Giá: 16 triệu / tháng,"Diện tích: 100 m
+2","Đường Lạc Long Quân, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà mới tinh liền kề Mỹ Đình, DT 80m2 x5 tầng thông sàn thang máy, 40tr",Giá: 38 triệu / tháng,"Diện tích: 80 m
+2","Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Tòa văn phòng ngõ hai oto tránh Đường Mễ Trì, 160m2x8tầng+1hầm, thông sàn, 100tr/th",Giá: 100 triệu / tháng,"Diện tích: 160 m
+2","Đường Mễ Trì Hạ, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê toà nhà Cầu Giấy, 120m2x9T nổi, 1 hầm, MT: 7m, thang máy, ĐH, NL, PCCC",Giá: 120 ngàn / m2  / tháng,"Diện tích: 120 m
+2","Đường Đông Quan, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Nguyễn Khả Trạc DT 60m2 x 6 tầng chia 2 phòng thang máy.,Giá: 30 triệu / tháng,"Diện tích: 60 m
+2","Đường Nguyễn Khả Trạc, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê tòa VP ngõ 129 Thiên Hiền, Mỹ Đình DT 100m2x6T thông sàn, thang máy làm VP",Giá: 48 triệu / tháng,"Diện tích: 100 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố Nguyễn Chánh, đối diện tòa kiểm toán nhà nước DT 120m2* 5 tầng,",Giá: 89 triệu / tháng,"Diện tích: 120 m
+2","Đường Nguyễn Chánh, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Thuê nhà Lê Đức Thọ 60m2 6 tầng 7 phòng ngủ giá 35tr,Giá: 35 triệu / tháng,"Diện tích: 60 m
+2","Đường Lê Đức Thọ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố đường Miếu Đầm. DT 60 m² x 5 tầng mặt tiền 4,5 m. giá 25tr",Giá: 25 triệu / tháng,"Diện tích: 60 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê toà nhà 6 tầng, khu đô thị mới Trần Kim Xuyến, phường Yên Hòa, thiết kế thông sàn",Giá: 50 triệu / tháng,"Diện tích: 80 m
+2","Đường Trần Kim Xuyến, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Thuê nhà Lê Đức Thọ 60m2 6 tầng 7 phòng ngủ giá 35tr,Giá: 35 triệu / tháng,"Diện tích: 60 m
+2","Đường Lê Đức Thọ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố đường Miếu Đầm. DT 60 m² x 5 tầng mặt tiền 4,5 m. giá 25tr",Giá: 25 triệu / tháng,"Diện tích: 60 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê toà nhà 6 tầng, khu đô thị mới Trần Kim Xuyến, phường Yên Hòa, thiết kế thông sàn",Giá: 50 triệu / tháng,"Diện tích: 80 m
+2","Đường Trần Kim Xuyến, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+cho thuê nhà mặt phố trương công giai 80m2 8 tầng thông sàn 80tr,Giá: 80 triệu / tháng,"Diện tích: 80 m
+2","Đường Trương Công Giai, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố thiên hiền 65m2 6 tầng thông sàn giá 48tr,Giá: 48 triệu / tháng,"Diện tích: 65 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Hàm Nghi 110m2 6 tầng thang máy giá 55tr,Giá: 55 triệu / tháng,"Diện tích: 110 m
+2","Đường Hàm Nghi, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mai dịch 60m2 5 tầng 6 phòng ngủ giá 25tr,Giá: 25 triệu / tháng,"Diện tích: 60 m
+2","Đường Phạm Thận Duật, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà hàm nghi 70m2 5 tầng 6 phòng ngủ giá 23tr,Giá: 23 triệu / tháng,"Diện tích: 70 m
+2","Đường Hàm Nghi, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà nghĩa đô cầu giấy 70m2 8 tầng 9 phòng ngủ giá 58tr,Giá: 58 triệu / tháng,"Diện tích: 70 m
+2","Phố Nghĩa Đô, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà dương Khuê 45m2 8 tầng thông sàn giá 32tr,Giá: 32 triệu / tháng,"Diện tích: 45 m
+2","Đường Dương Khuê, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà 154 đình thôn 55m x 9T thang máy, thông sàn Giá 42tr",Giá: 42 triệu / tháng,"Diện tích: 55 m
+2","Đường Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà thiên hiền 60m2 6 tầng thông sàn giá 32tr,Giá: 32 triệu / tháng,"Diện tích: 60 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê toà nhà hoàng ngân 80m2 7 tầng 40tr,Giá: 40 triệu / tháng,"Diện tích: 80 m
+2","Phố Hoàng Ngân, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+cho thuê toà nhà mặt phố Mễ Trì Thượng DT 55m2 nhân 8 tầng giá thuê chỉ 50tr,Giá: 50 triệu / tháng,"Diện tích: 55 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Nhà phố Nguyễn Khánh Toàn: 220m2 x 2 tầng, MT: 9m, ngõ rộng ô tô, gần MP, thông sàn,",Giá: 95 triệu / tháng,"Diện tích: 220 m
+2","Đường Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố hoàng quốc việt 45m2 5 tầng giá 29tr,Giá: 29 triệu / tháng,"Diện tích: 45 m
+2","Đường Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê biệt thự bùi xuân phái dt daất 130m2 x 4 tầng giá 33tr,Giá: 33 triệu / tháng,"Diện tích: 130 m
+2","Đường Bùi Xuân Phái, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố Trần bình 90m2 8 tầng 65tr,Giá: 65 triệu / tháng,"Diện tích: 90 m
+2","Phố Trần Bình, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà Đồng Me 50m2 x 5tầng, có thang máy, các tầng thông sàn, 16 triệu",Giá: 16 triệu / tháng,"Diện tích: 50 m
+2","Đường Đồng Me, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà đỗ quang 90m2 4 tầng thông sàn giá 50tr,Giá: 50 triệu / tháng,"Diện tích: 90 m
+2","Đường Đỗ Quang, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà đỗ quang 90m2 4 tầng thông sàn giá 50tr,Giá: 50 triệu / tháng,"Diện tích: 90 m
+2","Đường Đỗ Quang, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố đỗ quang 55m2 5 tầng thông sàn 30tr,Giá: 30 triệu / tháng,"Diện tích: 55 m
+2","Đường Đỗ Quang, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố Mễ trì thượng 62m2 7 tầng 30tr,Giá: 30 triệu / tháng,"Diện tích: 62 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố Mễ trì thượng 90m2 5 tầng thông sàn 45tr,Giá: 45 triệu / tháng,"Diện tích: 90 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà thiên hiền 100m2 8 tầng chia phòng giá 75tr,Giá: 70 triệu / tháng,"Diện tích: 100 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Nguyễn hoàng 90m2 6 tầng 60tr,Giá: 60 triệu / tháng,"Diện tích: 90 m
+2","Đường Nguyễn Hoàng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà yên hoà 70m2 6 tầng thông sàn giá 39tr,Giá: 39 triệu / tháng,"Diện tích: 70 m
+2","Đường Yên Hòa, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Nguyễn khả trạc 75m2 4 tầng 4 phòng ngủ giá 23tr,Giá: 23 triệu / tháng,"Diện tích: 75 m
+2","Đường Nguyễn Khả Trạc, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà trần bình 60m2 4 tầng 6 phòng ngủ 20tr,Giá: 20 triệu / tháng,"Diện tích: 60 m
+2","Phố Trần Bình, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê số 7 ngõ 5 thọ tháp dt 100m x 6 tầng, mt 5m, thang máy, từ t2 2 chia phòng 60tr",Giá: 60 triệu / tháng,"Diện tích: 100 m
+2","Đường Thọ Tháp, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố Lưu Hữu Phước 75m2 x 7T thang máy, thông sàn.",Giá: 35 triệu / tháng,"Diện tích: 75 m
+2","Đường Lưu Hữu Phước, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê gấp nhà mặt phố Đỗ Quang 70m2x5 tầng, Giá 35tr",Giá: 35 triệu / tháng,"Diện tích: 70 m
+2","Đường Đỗ Quang, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố Đặng Thùy Trâm - 60m2 - 7tầng - 50tr/tháng,Giá: 50 triệu / tháng,"Diện tích: 60 m
+2","Phố Đặng Thùy Trâm, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố hàm nghi 95m2 5 tầng thông sàn giá 70tr,Giá: 70 triệu / tháng,"Diện tích: 95 m
+2","Đường Hàm Nghi, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà miếu đầm 75m2 7 tầng giá 60tr,Giá: 60 triệu / tháng,"Diện tích: 75 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà trầm quý kiên 60m2 6 tầng thông sàn giá 38tr,Giá: 38 triệu / tháng,"Diện tích: 60 m
+2","Phố Trần Quý Kiên, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố miếu đầm 130m2 6 tầng 160tr,Giá: 160 triệu / tháng,"Diện tích: 130 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà phan văn trường 90m2 7 tầng giá 65tr,Giá: 65 triệu / tháng,"Diện tích: 90 m
+2","Phố Phan Văn Trường, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà hoàng ngân 67m2 6 tầng 7 phòng giá 33tr,Giá: 33 triệu / tháng,"Diện tích: 67 m
+2","Phố Hoàng Ngân, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố thiên hiền 60m2 4 tầng 4 phòng ngủ 22tr,Giá: 22 triệu / tháng,"Diện tích: 60 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà phan văn trường 90m2 7 tầng giá 65tr,Giá: 65 triệu / tháng,"Diện tích: 90 m
+2","Phố Phan Văn Trường, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà hoàng ngân 67m2 6 tầng 7 phòng giá 33tr,Giá: 33 triệu / tháng,"Diện tích: 67 m
+2","Phố Hoàng Ngân, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố thiên hiền 60m2 4 tầng 4 phòng ngủ 22tr,Giá: 22 triệu / tháng,"Diện tích: 60 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố đường Mỹ đình 80m2 8 tầng 55tr,Giá: 55 triệu / tháng,"Diện tích: 80 m
+2","Đường Mỹ Đình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà trung kính 70m2 5 tầng 28tr,Giá: 28 triệu / tháng,"Diện tích: 70 m
+2","Phố Trung Kính, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà dương Khuê 60m2 2 tầng 16tr,Giá: 16 triệu / tháng,"Diện tích: 60 m
+2","Đường Dương Khuê, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà dương Khuê 45m2 5 tầng 5 phòng ngủ giá 18tr,Giá: 18 triệu / tháng,"Diện tích: 45 m
+2","Đường Dương Khuê, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố Mễ trì thượng 75m2 7 tầng giá 41tr,Giá: 41 triệu / tháng,"Diện tích: 75 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Lê đức thọ 60m2 5 tầng thông sàn giá 30tr,Giá: 30 triệu / tháng,"Diện tích: 60 m
+2","Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Lê Đức thọ 65m2 6 tầng giá 39tr,Giá: 39 triệu / tháng,"Diện tích: 65 m
+2","Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê liền kề mặt đường Nguyễn chánh 100m2 5 tầng 5 phòng ngủ giá 68tr,Giá: 68 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Chánh, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố Nguyễn hoàng 65m2 7 tầng 8 phòng ngủ giá 35tr,Giá: 35 triệu / tháng,"Diện tích: 65 m
+2","Đường Nguyễn Hoàng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố phạm văn trường - cầu giấy 90m2 6 tầng 1 hầm giá 80tr,Giá: 80 triệu / tháng,"Diện tích: 90 m
+2","Phố Phan Văn Trường, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Phú đô Mỹ đình 300m2 4 tầng 12 phòng giá 40tr,Giá: 40 triệu / tháng,"Diện tích: 300 m
+2","Đường Phú Đô, Phường Phú Đô, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Mễ trì thượng 65m2 5 tầng 1 hầm 6 phòng ngủ giá 21tr,Giá: 21 triệu / tháng,"Diện tích: 65 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố thiên hiền mỹ đình 65m2 5 tầng 5 phòng ngủ giá 28tr,Giá: 28 triệu / tháng,"Diện tích: 65 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố đồng me 60m2 4 tầng chia 2 phòng giá 24tr,Giá: 24 triệu / tháng,"Diện tích: 60 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố trung hoà 100m2 5 tầng chia 2 phòng giá 48tr,Giá: 48 triệu / tháng,"Diện tích: 100 m
+2","Đường Trung Hòa, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà ngõ 76 Duy Tân 100m² 4 tầng chia 2 phòng, đồ cơ bản điều hòa, nóng lạnh 35tr",Giá: 35 triệu / tháng,"Diện tích: 100 m
+2","Phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà đình thôn 65m2 7 tầng 11 phòng giá 35tr,Giá: 35 triệu / tháng,"Diện tích: 65 m
+2","Đường Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 200a đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",Giá: 230 triệu / tháng,"Diện tích: 400 m
+2","Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 118 Pasteur, P.Bến Nghé, Quận 1, Hồ Chí Minh",Giá: 188 triệu / tháng,"Diện tích: 576 m
+2","Đường Pasteur, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT Cách Mạng Tháng Tám, Phường 12, Quận 10, Hồ Chí Minh",Giá: 460 triệu / tháng,"Diện tích: 280 m
+2","Đường Cách Mạng Tháng 8, Phường 12, Quận 10, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền số 118A đường Bùi Thị Xuân, Phường Bến Thành, Quận 1, Hồ Chí Minh. G",Giá: 170 triệu / tháng,"Diện tích: 240 m
+2","Đường Bùi Thị Xuân, Phường Bến Thành, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh.",Giá: 230 triệu / tháng,"Diện tích: 136 m
+2","Đường Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 270-272 đường Hai Bà Trưng, Phường Tân Định, Quận 1, Hồ Chí Minh",Giá: 320 triệu / tháng,"Diện tích: 400 m
+2","Đường Hai Bà Trưng, Phường Tân Định, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê toà nhà 161-161A Hai Bà Trưng, P.06, Q.3, TP.HCM","Giá: 1,5 tỷ / tháng","Diện tích: 3.120 m
+2","Đường Hai Bà Trưng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh",Giá: 375 triệu / tháng,"Diện tích: 300 m
+2","Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 185 đường Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Ch",Giá: 330 triệu / tháng,"Diện tích: 400 m
+2","Đường Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 49 Xuân Thủy, Phường Thảo Điền, Quận 2, Hồ Chí Minh",Giá: 350 triệu / tháng,"Diện tích: 1.500 m
+2","Đường Xuân Thủy, Phường Thảo Điền, Thành phố Thủ Đức, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền số 91a đường Cao Thắng, Phường 3, Quận 3, Hồ Chí Minh",Giá: 700 triệu / tháng,"Diện tích: 3.500 m
+2","Đường Cao Thắng, Phường 3, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 201 Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh",Giá: 490 triệu / tháng,"Diện tích: 1.500 m
+2","Đường Nguyễn Trãi, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 138-138a Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Hồ Chí Minh",Giá: 250 triệu / tháng,"Diện tích: 700 m
+2","Đường Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền 139B Pasteur, Phường 6, Quận 3, Dt : 8 x 20, 1 trệt 3 lầu.",Giá: 164 triệu / tháng,"Diện tích: 700 m
+2","Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 655-657-659 Lạc Long Quân, Phường 8, Quận Tân Bình, Hồ Chí Minh","Giá: 1,39 tỷ / tháng","Diện tích: 6.500 m
+2","Đường Lạc Long Quân, Phường 8, Quận Tân Bình, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 448 Trường Sa, P.2, Q.Phú Nhuận, Hồ Chí Minh",Giá: 40 triệu / tháng,"Diện tích: 60 m
+2","Đường Trường Sa, Phường 2, Quận Phú Nhuận, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 49 Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh",Giá: 156 triệu / tháng,"Diện tích: 200 m
+2","Đường Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền GÓC 2MT số 256 đường Nam Kỳ Khởi Nghĩa, Phường 8, Quận 3, Hồ Chí Min",Giá: 80 triệu / tháng,"Diện tích: 234 m
+2","Đường Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 148 Nguyễn Trãi, P.Bến Thành, Q.1, Hồ Chí Minh",Giá: 150 triệu / tháng,"Diện tích: 82 m
+2","Đường Nguyễn Trãi, Phường Bến Thành, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 161 Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh",Giá: 100 triệu / tháng,"Diện tích: 1.200 m
+2","Đường Nguyễn Xí, Phường 26, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà Góc 2MT 183 Đào Duy Anh+ Phỗ quang, phường 9 Phú Nhuận.",Giá: 120 triệu / tháng,"Diện tích: 368 m
+2","Đường Đào Duy Anh, Phường 9, Quận Phú Nhuận, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 227 đường Tạ Uyên, Phường 4, Quận 11, Hồ Chí Minh",Giá: 120 triệu / tháng,"Diện tích: 550 m
+2","Đường Tạ Uyên, Phường 4, Quận 11, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà góc 2MT Hồ Tùng Mậu và Nguyễn Công Trứ, 6 tầng, giá 600 tr",Giá: 600 triệu / tháng,"Diện tích: 700 m
+2","Đường Hồ Tùng Mậu, Phường Bến Nghé, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+Nhà cho thuê đường 41 Tân quy Q7 dt 4x18 Trệt 3 lầu .19Tr Dt 4x20 gia 26 tr Trệt 3 lầu,Giá: 25 triệu / tháng,"Diện tích: 76 m
+2","Đường Số 41, Phường Tân Quy, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+Cho thuê nhà mt nguyên căn đường số tân quy Dt 4m5 x 20. 1 trệt 3 lầu ST ✅ Giá 23tr Nhà c,Giá: 23 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 39, Phường Tân Quy, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà mặt tiền đường số 37 Quận 7 dt ; 4,5x20 Trệt lung 3 Lầu",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 37, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"✅Cho thuê nhà đường số 25 phường Tân Quy Q7,dt ; 4,5x20m Trệt 3 Lâu",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường Số 15, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+✅Cho thuê nhà đường số phường Tân quy quận 7 dt; 4x20m Trệt 3 lầu Full nội thất giá,Giá: 25 triệu / tháng,"Diện tích: 80 m
+2","Đường Số 43, Phường Tân Quy, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 704 Hậu Giang, Phường 12, Quận 6, Hồ Chí Minh",Giá: 120 triệu / tháng,"Diện tích: 200 m
+2","Đường Châu Văn Liêm, Phường 12, Quận 6, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà 160 Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh",Giá: 90 triệu / tháng,"Diện tích: 450 m
+2","Đường Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT 185 Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",Giá: 336 triệu / tháng,"Diện tích: 170 m
+2","Đường Nguyễn Thị Minh Khai, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT số 24-26 đường Phạm Ngọc Thạch, Phường 6, Quận 3, Hồ Chí Minh",Giá: 770 triệu / tháng,"Diện tích: 1.960 m
+2","Đường Phạm Ngọc Thạch, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà góc 2MT Phan Đăng Lưu, P.07, Bình Thạnh, 10x20, trệt 4 lầu, Giá 360 tr/th",Giá: 360 triệu / tháng,"Diện tích: 1.000 m
+2","Đường Phan Đăng Lưu, Phường 7, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà GÓC 2MT đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh",Giá: Thỏa thuận,"Diện tích: 108 m
+2","Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà số 335-337 đường Trần Hưng Đạo, Phường Cầu Kho, Quận 1, Hồ Chí Minh",Giá: 150 triệu / tháng,"Diện tích: 432 m
+2","Đường Trần Hưng Đạo, Phường Cầu Kho, Quận 1, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê Mặt bằng Góc 2 Mặt Tiền Nguyễn Văn Nghi P.7 Quận Gò Vấp,",Giá: 100 triệu / tháng,"Diện tích: 270 m
+2","Đường Nguyễn Văn Nghi, Phường 7, Quận Gò Vấp, Hồ Chí Minh",cho_thue_cua_hang
+"🔥VIP! Hàng hiếm CĂN GÓC 2MT Nguyễn Gia Trí, P25, Quận Bình Thạnh🔥 Giá chỉ 85 triệu!!",Giá: 85 triệu / tháng,"Diện tích: 500 m
+2","Đường Nguyễn Gia Trí, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê biệt thự KĐT Xa La, Hà Đông, Hà Nội.",Giá: 27 triệu / tháng,"Diện tích: 175 m
+2","Đường Phùng Hưng, Phường Phúc La, Quận Hà Đông, Hà Nội",cho_thue_cua_hang
+"Cho thuê 18 ngủ khép kín Khai Quang, Vĩnh Yên .",Giá: 90 triệu / tháng,"Diện tích: 250 m
+2","Đường Lý Nam Đế, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+Cho thuê 17 phòng ngủ Liên Bảo giá 51tr/tháng.,Giá: 51 triệu / tháng,"Diện tích: 150 m
+2","Đường Nguyễn Tất Thành, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 12 ngủ Thăng Long 3, Bình Xuyên. Lh 0",Giá: 30 triệu / tháng,"Diện tích: 100 m
+2","Phố Tôn Đức Thắng, Xã Thiện Kế, Huyện Bình Xuyên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê 5 ngủ KĐT Hà Tiên, Liên Bảo giá 16tr/tháng.",Giá: 16 triệu / tháng,"Diện tích: 100 m
+2","Quốc lộ 2B, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+Cho thuê 7 ngủ Khai Quang giá 18tr/tháng.,Giá: 18 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Tất Thành, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Liên Bảo, Vĩnh Yên giá 10 tr/tháng.",Giá: 10 triệu / tháng,"Diện tích: 100 m
+2","Quốc lộ 2B, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 4 tầng Tích Sơn, Vĩnh Yên giá 14tr/tháng.",Giá: 14 triệu / tháng,"Diện tích: 100 m
+2","Đường Phạm Văn Đồng, Phường Tích Sơn, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Mê Linh, Vĩnh Yên giá 25tr/tháng. LH",Giá: 25 triệu / tháng,"Diện tích: 150 m
+2","Đường Mê Linh, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+Cho thuê biệt thự 06 ngủ Vĩnh Yên. LH,Giá: 20 triệu / tháng,"Diện tích: 200 m
+2","Đường Điện Biên Phủ, Phường Tích Sơn, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Nam Vĩnh Yên, Khai Quang giá 15tr.",Giá: 15 triệu / tháng,"Diện tích: 100 m
+2","Đường Lý Nam Đế, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 5ngủ Liên Bảo, Vĩnh Yên giá 13tr. LH",Giá: 13 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Công Trứ, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà 8 ngủ Liên Bảo, Vĩnh Yên giá 16tr. LH",Giá: 16 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Tất Thành, Phường Liên Bảo, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê mặt đường Tôn Đức Thắng, Vĩnh Yên giá 12tr.",Giá: 12 triệu / tháng,"Diện tích: 100 m
+2","Đường Tôn Đức Thắng, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Cho thuê nhà Lạc Long Quân, Khai Quang giá 16tr.",Giá: 16 triệu / tháng,"Diện tích: 100 m
+2","Đường Lạc Long Quân, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",cho_thue_cua_hang
+"Tòa văn phòng ngõ hai oto tránh Đường Mễ Trì, 160m2x8tầng+1hầm, thông sàn, 100tr/th",Giá: 100 triệu / tháng,"Diện tích: 160 m
+2","Đường Mễ Trì Hạ, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mới tinh liền kề Mỹ Đình, DT 80m2 x5 tầng thông sàn thang máy, 40tr",Giá: 38 triệu / tháng,"Diện tích: 80 m
+2","Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê toà nhà Cầu Giấy, 120m2x9T nổi, 1 hầm, MT: 7m, thang máy, ĐH, NL, PCCC",Giá: 120 ngàn / m2  / tháng,"Diện tích: 120 m
+2","Đường Đông Quan, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Nguyễn Khả Trạc DT 60m2 x 6 tầng chia 2 phòng thang máy.,Giá: 30 triệu / tháng,"Diện tích: 60 m
+2","Đường Nguyễn Khả Trạc, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê tòa VP ngõ 129 Thiên Hiền, Mỹ Đình DT 100m2x6T thông sàn, thang máy làm VP",Giá: 48 triệu / tháng,"Diện tích: 100 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố Nguyễn Chánh, đối diện tòa kiểm toán nhà nước DT 120m2* 5 tầng,",Giá: 89 triệu / tháng,"Diện tích: 120 m
+2","Đường Nguyễn Chánh, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Thuê nhà Lê Đức Thọ 60m2 6 tầng 7 phòng ngủ giá 35tr,Giá: 35 triệu / tháng,"Diện tích: 60 m
+2","Đường Lê Đức Thọ, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố đường Miếu Đầm. DT 60 m² x 5 tầng mặt tiền 4,5 m. giá 25tr",Giá: 25 triệu / tháng,"Diện tích: 60 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê toà nhà 6 tầng, khu đô thị mới Trần Kim Xuyến, phường Yên Hòa, thiết kế thông sàn",Giá: 50 triệu / tháng,"Diện tích: 80 m
+2","Đường Trần Kim Xuyến, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+cho thuê nhà mặt phố trương công giai 80m2 8 tầng thông sàn 80tr,Giá: 80 triệu / tháng,"Diện tích: 80 m
+2","Đường Trương Công Giai, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố thiên hiền 65m2 6 tầng thông sàn giá 48tr,Giá: 48 triệu / tháng,"Diện tích: 65 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Hàm Nghi 110m2 6 tầng thang máy giá 55tr,Giá: 55 triệu / tháng,"Diện tích: 110 m
+2","Đường Hàm Nghi, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mai dịch 60m2 5 tầng 6 phòng ngủ giá 25tr,Giá: 25 triệu / tháng,"Diện tích: 60 m
+2","Đường Phạm Thận Duật, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà hàm nghi 70m2 5 tầng 6 phòng ngủ giá 23tr,Giá: 23 triệu / tháng,"Diện tích: 70 m
+2","Đường Hàm Nghi, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà nghĩa đô cầu giấy 70m2 8 tầng 9 phòng ngủ giá 58tr,Giá: 58 triệu / tháng,"Diện tích: 70 m
+2","Phố Nghĩa Đô, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà dương Khuê 45m2 8 tầng thông sàn giá 32tr,Giá: 32 triệu / tháng,"Diện tích: 45 m
+2","Đường Dương Khuê, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà 154 đình thôn 55m x 9T thang máy, thông sàn Giá 42tr",Giá: 42 triệu / tháng,"Diện tích: 55 m
+2","Đường Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà thiên hiền 60m2 6 tầng thông sàn giá 32tr,Giá: 32 triệu / tháng,"Diện tích: 60 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê toà nhà hoàng ngân 80m2 7 tầng 40tr,Giá: 40 triệu / tháng,"Diện tích: 80 m
+2","Phố Hoàng Ngân, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+cho thuê toà nhà mặt phố Mễ Trì Thượng DT 55m2 nhân 8 tầng giá thuê chỉ 50tr,Giá: 50 triệu / tháng,"Diện tích: 55 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Nhà phố Nguyễn Khánh Toàn: 220m2 x 2 tầng, MT: 9m, ngõ rộng ô tô, gần MP, thông sàn,",Giá: 95 triệu / tháng,"Diện tích: 220 m
+2","Đường Nguyễn Khánh Toàn, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố hoàng quốc việt 45m2 5 tầng giá 29tr,Giá: 29 triệu / tháng,"Diện tích: 45 m
+2","Đường Hoàng Quốc Việt, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê biệt thự bùi xuân phái dt daất 130m2 x 4 tầng giá 33tr,Giá: 33 triệu / tháng,"Diện tích: 130 m
+2","Đường Bùi Xuân Phái, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố Trần bình 90m2 8 tầng 65tr,Giá: 65 triệu / tháng,"Diện tích: 90 m
+2","Phố Trần Bình, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà Đồng Me 50m2 x 5tầng, có thang máy, các tầng thông sàn, 16 triệu",Giá: 16 triệu / tháng,"Diện tích: 50 m
+2","Đường Đồng Me, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà đỗ quang 90m2 4 tầng thông sàn giá 50tr,Giá: 50 triệu / tháng,"Diện tích: 90 m
+2","Đường Đỗ Quang, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố đỗ quang 55m2 5 tầng thông sàn 30tr,Giá: 30 triệu / tháng,"Diện tích: 55 m
+2","Đường Đỗ Quang, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố Mễ trì thượng 62m2 7 tầng 30tr,Giá: 30 triệu / tháng,"Diện tích: 62 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố Mễ trì thượng 90m2 5 tầng thông sàn 45tr,Giá: 45 triệu / tháng,"Diện tích: 90 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà thiên hiền 100m2 8 tầng chia phòng giá 75tr,Giá: 70 triệu / tháng,"Diện tích: 100 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Nguyễn hoàng 90m2 6 tầng 60tr,Giá: 60 triệu / tháng,"Diện tích: 90 m
+2","Đường Nguyễn Hoàng, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà yên hoà 70m2 6 tầng thông sàn giá 39tr,Giá: 39 triệu / tháng,"Diện tích: 70 m
+2","Đường Yên Hòa, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Nguyễn khả trạc 75m2 4 tầng 4 phòng ngủ giá 23tr,Giá: 23 triệu / tháng,"Diện tích: 75 m
+2","Đường Nguyễn Khả Trạc, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà trần bình 60m2 4 tầng 6 phòng ngủ 20tr,Giá: 20 triệu / tháng,"Diện tích: 60 m
+2","Phố Trần Bình, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê số 7 ngõ 5 thọ tháp dt 100m x 6 tầng, mt 5m, thang máy, từ t2 2 chia phòng 60tr",Giá: 60 triệu / tháng,"Diện tích: 100 m
+2","Đường Thọ Tháp, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố Lưu Hữu Phước 75m2 x 7T thang máy, thông sàn.",Giá: 35 triệu / tháng,"Diện tích: 75 m
+2","Đường Lưu Hữu Phước, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê gấp nhà mặt phố Đỗ Quang 70m2x5 tầng, Giá 35tr",Giá: 35 triệu / tháng,"Diện tích: 70 m
+2","Đường Đỗ Quang, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê mặt phố Đặng Thùy Trâm - 60m2 - 7tầng - 50tr/tháng,Giá: 50 triệu / tháng,"Diện tích: 60 m
+2","Phố Đặng Thùy Trâm, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố hàm nghi 95m2 5 tầng thông sàn giá 70tr,Giá: 70 triệu / tháng,"Diện tích: 95 m
+2","Đường Hàm Nghi, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà miếu đầm 75m2 7 tầng giá 60tr,Giá: 60 triệu / tháng,"Diện tích: 75 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà trầm quý kiên 60m2 6 tầng thông sàn giá 38tr,Giá: 38 triệu / tháng,"Diện tích: 60 m
+2","Phố Trần Quý Kiên, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố miếu đầm 130m2 6 tầng 160tr,Giá: 160 triệu / tháng,"Diện tích: 130 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà phan văn trường 90m2 7 tầng giá 65tr,Giá: 65 triệu / tháng,"Diện tích: 90 m
+2","Phố Phan Văn Trường, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà hoàng ngân 67m2 6 tầng 7 phòng giá 33tr,Giá: 33 triệu / tháng,"Diện tích: 67 m
+2","Phố Hoàng Ngân, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố thiên hiền 60m2 4 tầng 4 phòng ngủ 22tr,Giá: 22 triệu / tháng,"Diện tích: 60 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố đường Mỹ đình 80m2 8 tầng 55tr,Giá: 55 triệu / tháng,"Diện tích: 80 m
+2","Đường Mỹ Đình, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà trung kính 70m2 5 tầng 28tr,Giá: 28 triệu / tháng,"Diện tích: 70 m
+2","Phố Trung Kính, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà dương Khuê 60m2 2 tầng 16tr,Giá: 16 triệu / tháng,"Diện tích: 60 m
+2","Đường Dương Khuê, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà dương Khuê 45m2 5 tầng 5 phòng ngủ giá 18tr,Giá: 18 triệu / tháng,"Diện tích: 45 m
+2","Đường Dương Khuê, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố Mễ trì thượng 75m2 7 tầng giá 41tr,Giá: 41 triệu / tháng,"Diện tích: 75 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Lê đức thọ 60m2 5 tầng thông sàn giá 30tr,Giá: 30 triệu / tháng,"Diện tích: 60 m
+2","Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Lê Đức thọ 65m2 6 tầng giá 39tr,Giá: 39 triệu / tháng,"Diện tích: 65 m
+2","Đường Lê Đức Thọ, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê liền kề mặt đường Nguyễn chánh 100m2 5 tầng 5 phòng ngủ giá 68tr,Giá: 68 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Chánh, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố Nguyễn hoàng 65m2 7 tầng 8 phòng ngủ giá 35tr,Giá: 35 triệu / tháng,"Diện tích: 65 m
+2","Đường Nguyễn Hoàng, Phường Mỹ Đình 2, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố phạm văn trường - cầu giấy 90m2 6 tầng 1 hầm giá 80tr,Giá: 80 triệu / tháng,"Diện tích: 90 m
+2","Phố Phan Văn Trường, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Phú đô Mỹ đình 300m2 4 tầng 12 phòng giá 40tr,Giá: 40 triệu / tháng,"Diện tích: 300 m
+2","Đường Phú Đô, Phường Phú Đô, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Mễ trì thượng 65m2 5 tầng 1 hầm 6 phòng ngủ giá 21tr,Giá: 21 triệu / tháng,"Diện tích: 65 m
+2","Đường Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố thiên hiền mỹ đình 65m2 5 tầng 5 phòng ngủ giá 28tr,Giá: 28 triệu / tháng,"Diện tích: 65 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố đồng me 60m2 4 tầng chia 2 phòng giá 24tr,Giá: 24 triệu / tháng,"Diện tích: 60 m
+2","Đường Miếu Đầm, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố trung hoà 100m2 5 tầng chia 2 phòng giá 48tr,Giá: 48 triệu / tháng,"Diện tích: 100 m
+2","Đường Trung Hòa, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà ngõ 76 Duy Tân 100m² 4 tầng chia 2 phòng, đồ cơ bản điều hòa, nóng lạnh 35tr",Giá: 35 triệu / tháng,"Diện tích: 100 m
+2","Phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà đình thôn 65m2 7 tầng 11 phòng giá 35tr,Giá: 35 triệu / tháng,"Diện tích: 65 m
+2","Đường Đình Thôn, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà lưu hữu Phước 100m2 7 tầng 1 hầm 56tr,Giá: 56 triệu / tháng,"Diện tích: 100 m
+2","Đường Lưu Hữu Phước, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà mặt phố Trần Quý Kiên - Cầu Giấy - Hà Nội Diện tích 65m2x6 tầng. MT 4m.,Giá: 40 triệu / tháng,"Diện tích: 65 m
+2","Phố Trần Quý Kiên, Phường Dịch Vọng, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"cho thuê nhà mặt phố Thiên Hiền 55m2 6 tầng P. Mỹ Đình 1, Q. Nam Từ Liêm, Hà Nội",Giá: 48 triệu / tháng,"Diện tích: 55 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"cho thuê nhà mặt phố Phạm Tuấn Tài DT 70m2*5 tầng, mặt tiền 7m có vỉa hè rộng giá 33tr",Giá: 33 triệu / tháng,"Diện tích: 70 m
+2","Phố Phạm Tuấn Tài, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà phố Hoàng Quốc Việt, Cầu Giấy. Dt 60m2 7 tầng. Ngõ oto tránh. Giá chỉ 35tr/th",Giá: 35 triệu / tháng,"Diện tích: 60 m
+2","Đường Hoàng Quốc Việt, Phường Nghĩa Đô, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+cho thuê nhà Đồng Me - Mễ Trì 60m2 4 tầng chia 2 phòng giá 25tr,Giá: 25 triệu / tháng,"Diện tích: 60 m
+2","Đường Đồng Me, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố Trần Hữu Dực, Nam Từ Liêm. Thông sàn, thang máy. DT 135m2 5T lô góc",Giá: 55 triệu / tháng,"Diện tích: 135 m
+2","Đường Trần Hữu Dực, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+cho thuê nhà tại Trần Hữu Dực - Nam Từ Liêm. - Dt: 50m2x5 tầng. Lô góc. giá 23tr,Giá: 23 triệu / tháng,"Diện tích: 50 m
+2","Đường Trần Hữu Dực, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Duy Tân- 60m2 - 6 tầng - đường rộng ô tô tránh- vỉa hè 2 bên xe ô tô dừng đỗ,Giá: 32 triệu / tháng,"Diện tích: 60 m
+2","Phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà 10m2 x 5 tầng, MT 8m , Mỹ Đình 1; ô tô tránh, vỉa hè, giá 39tr",Giá: 39 triệu / tháng,"Diện tích: 100 m
+2","Đường Mỹ Đình, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà phố Thiên Hiền - Mỹ Đình 1, 60m2x6T, MT: 5m, thông sàn, thang máy, đủ ĐH âm",Giá: 45 triệu / tháng,"Diện tích: 60 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê nhà Trần Quốc Vượng 60m2 5 tầng thông sàn thang máy giá 43tr,Giá: 43 triệu / tháng,"Diện tích: 60 m
+2","Phố Trần Quốc Vượng, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"thuê nhà lô góc KĐT Nam Trung Yên, Nguyễn Chánh. DT 110m2,4,5 tầng, MT 10m, giá 79tr",Giá: 79 triệu / tháng,"Diện tích: 110 m
+2","Đường Nguyễn Chánh, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Nhà phố Nguyễn Quốc Trị - Cầu Giấy, 190m2x8T, 1 hầm, MT: 12m, thông sàn, thang máy, PCCC đ",Giá: 120 triệu / tháng,"Diện tích: 190 m
+2","Đường Nguyễn Quốc Trị, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà Nguyễn Quốc Trị-Trung Hòa, 100m2x5T, MT: 6m, thông sàn, thang máy",Giá: 50 triệu / tháng,"Diện tích: 100 m
+2","Đường Nguyễn Quốc Trị, Phường Yên Hòa, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+Cho thuê tòa nhà Xuân Thuỷ 400m2 9 tầng 2 hầm,Giá: 800 triệu / tháng,"Diện tích: 400 m
+2","Đường Xuân Thủy, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",cho_thue_cua_hang
+"Cho thuê nhà mặt phố Thiên Hiền, Mỹ Đình, DT 100m2 * 5 tầng, mặt tiền 5m, giá 30tr",Giá: 30 triệu / tháng,"Diện tích: 100 m
+2","Đường Thiên Hiền, Phường Mỹ Đình 1, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+"Cho thuê toà nhà đường Cầu Diễn. DT 150m2, 6 tầng, 1 hầm, 1 tum có thang máy. Giá 100tr/th",Giá: 99 triệu / tháng,"Diện tích: 150 m
+2","Đường Cầu Diễn, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",cho_thue_cua_hang
+Cho thuê Khách Sạn 15 phòng mặt tiền La Văn Cầu Cách Biển chỉ 50m.,Giá: 25 triệu / tháng,"Diện tích: 100 m
+2","Đường La Văn Cầu, Phường Thắng Tam, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+Cho thuê mặt bằng Thùy Vân View biển P.2,Giá: 40 triệu / tháng,"Diện tích: 200 m
+2","Đường Thùy Vân, Phường 2, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+🔥🔥🔥 Cho thuê mặt bằng Vị trí cực đẹp đường Trương Công Định 7,Giá: 55 triệu / tháng,"Diện tích: 250 m
+2","Đường Trương Công Định, Phường 7, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+Cho thuê tòa nhà góc 2 mặt tiền Vị Trí Đẹp đường Lê Hồng Phong,Giá: 180 triệu / tháng,"Diện tích: 250 m
+2","Đường Lê Hồng Phong, Phường 3, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+Cho thuê tòa nhà góc 2 mặt tiền Vị Trí Đẹp đường Nguyễn Thái Học P.7,Giá: 120 triệu / tháng,"Diện tích: 200 m
+2","Đường Nguyễn Thái Học, Phường 7, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+Cho thuê mặt bằng góc 2 mặt tiền Hoàng Hoa Thám View bờ hồ,Giá: 150 triệu / tháng,"Diện tích: 500 m
+2","Đường Hoàng Hoa Thám, Phường 2, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"Cho thuê mặt bằng góc 2 mặt tiền đường Lê Qúy Đôn, Thủ Khoa Hân",Giá: 65 triệu / tháng,"Diện tích: 1.000 m
+2","Đường Lê Quý Đôn, Phường 1, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"""Cho thuê mặt bằng view biển 510m2 đường Hạ Long P.2",Giá: 100 triệu / tháng,"Diện tích: 510 m
+2","Đường Hạ Long, Phường 2, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"""Cho thuê mặt bằng 4.000m2 đường Hoàng Hoa Thám P.2",Giá: 250 triệu / tháng,"Diện tích: 4.000 m
+2","Đường Hoàng Hoa Thám, Phường 2, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"""Cho thuê mặt bằng 1.100m2 đường Chu Mạnh Trinh",Giá: 40 triệu / tháng,"Diện tích: 1.100 m
+2","Đường Chu Mạnh Trinh, Phường 8, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"""Cho thuê mặt bằng view biển 300m2 đường Hạ Long P.2",Giá: 70 triệu / tháng,"Diện tích: 300 m
+2","Đường Hạ Long, Phường 2, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"""Cho thuê mặt bằng vị trí đẹp mặt tiền BaCu",Giá: 35 triệu / tháng,"Diện tích: 80 m
+2","Đường Ba Cu, Phường 4, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"🔥🔥🔥Cho thuê nhà góc 2 mặt tiền BaCu, Lê Lai.",Giá: 150 triệu / tháng,"Diện tích: 200 m
+2","Đường Ba Cu, Phường 4, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+Cho thuê tòa nhà vị trí đẹp Nam Kỳ Khởi Nghĩa,Giá: 40 triệu / tháng,"Diện tích: 120 m
+2","Đường Nam Kỳ Khởi Nghĩa, Phường Thắng Tam, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+Cho thuê tòa nhà DTSD 2.400m2 đường Trương Công Định,Giá: 200 triệu / tháng,"Diện tích: 2.400 m
+2","Đường Trương Công Định, Phường 7, Thành phố Vũng Tàu, Bà Rịa Vũng Tàu",cho_thue_cua_hang
+"Q5, Cho thuê nhà mới MT Ký Hòa, DT 50m2, 6 tầng nhà mới xây dựng xong, giá 35tr/tháng",Giá: 35 triệu / tháng,"Diện tích: 50 m
+2","Đường Ký Hòa, Phường 11, Quận 5, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà Mới xây 6 Tầng, MT đường Ký Hòa Q5, DT 3.8x14, có 250m2 sàn, giá 33tr/tháng",Giá: 33 triệu / tháng,"Diện tích: 50 m
+2","Đường Ký Hòa, Phường 11, Quận 5, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê nhà riêng Lê Hồng Phong, Hải An, Hải Phòng. DT 60m2 x 4T",Giá: 12 triệu / tháng,"Diện tích: 60 m
+2","Đường Lê Hồng Phong, Phường Đằng Lâm, Quận Hải An, Hải Phòng",cho_thue_cua_hang
+SANG NHƯỢNG NHÀ HÀNG PHỐ NGÔ GIA TỰ 250M-3 TẦNG-10MT.15TRIỆU/THÁNG VIEW ĐẸP KINH DOANH BẤT,Giá: 15 triệu / tháng,"Diện tích: 250 m
+2","Đường Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Hà Nội",cho_thue_cua_hang
+CHO THUÊ NGUYÊN TOÀ LONG BIÊN 70M-7TẦNG-10MT.50 TRIỆU THANG MÁY KINH DOANH ĐỈNH MẶT PHỐ CH,Giá: 50 triệu / tháng,"Diện tích: 70 m
+2","Phố Trạm, Phường Long Biên, Quận Long Biên, Hà Nội",cho_thue_cua_hang
+NHƯỢNG MẶT BẰNG CAFE SÀI ĐỒNG LONG BIÊN 210M-1TẦNG-10MT THUÊ 25 TRIỆU/1 THÁNG VỊ TRÍ VIP,Giá: 25 triệu / tháng,"Diện tích: 210 m
+2","Đường Sài Đồng, Phường Sài Đồng, Quận Long Biên, Hà Nội",cho_thue_cua_hang
+N1807. Cho thuê nhà tại đường Đà Nẵng - Ngô Quyền - Hải Phòng,Giá: 9 triệu / tháng,"Diện tích: 100 m
+2","Đường Đà Nẵng, Phường Vạn Mỹ, Quận Ngô Quyền, Hải Phòng",cho_thue_cua_hang
+Cho thuê mặt phố Văn Cao - Ngô Quyền - Hải Phòng.,Giá: 70 triệu / tháng,"Diện tích: 180 m
+2","Đường Văn Cao, Phường Đổng Quốc Bình, Quận Ngô Quyền, Hải Phòng",cho_thue_cua_hang
+N1150. Cho thuê nhà trong ngõ đường Văn Cao - Hải An - Hải Phòng,Giá: 18 triệu / tháng,"Diện tích: 60 m
+2","Đường Văn Cao, Phường Đằng Lâm, Quận Hải An, Hải Phòng",cho_thue_cua_hang
+N1761. Cho thuê nhà tại Văn Cao - Đằng Lâm - Hải An - Hải Phòng,Giá: 21 triệu / tháng,"Diện tích: 88 m
+2","Đường Văn Cao, Phường Đằng Lâm, Quận Hải An, Hải Phòng",cho_thue_cua_hang
+Cho thuê nhà đẹp tại đường Văn Cao - Đằng Lâm - Hải An,Giá: 20 triệu / tháng,"Diện tích: 90 m
+2","Đường Văn Cao, Phường Đằng Lâm, Quận Hải An, Hải Phòng",cho_thue_cua_hang
+MT176. Cho thuê nhà mặt đường Chợ Lũng - Đằng Hải - Hải AN,Giá: 8 triệu / tháng,"Diện tích: 100 m
+2","Đường Chợ Lũng, Phường Đằng Hải, Quận Hải An, Hải Phòng",cho_thue_cua_hang
+MT1461. Cho thuê nhà bên khu vực Kiến An,Giá: 10 triệu / tháng,"Diện tích: 100 m
+2","Đường Lê Duẩn, Phường Quán Trữ, Quận Kiến An, Hải Phòng",cho_thue_cua_hang
+MT430. Cho thuê nhà tại Thiên Lôi - Lê Chân - Hải PHòng,Giá: 12 triệu / tháng,"Diện tích: 65 m
+2","Đường Thiên Lôi, Phường Vĩnh Niệm, Quận Lê Chân, Hải Phòng",cho_thue_cua_hang
+"TÒA NHÀ SỐ 3 CỬU LONG, P2, TÂN BÌNH - GIÁ 120 TRIỆU TL",Giá: 120 triệu / tháng,"Diện tích: 240 m
+2","Đường Cửu Long, Phường 2, Quận Tân Bình, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê shophouse Mỹ Viên, Đường số 22 Phú Mỹ Hưng Q7, 170m2, giá 32 triệu.",Giá: 32 triệu / tháng,"Diện tích: 170 m
+2","Đường số 22, Phường Tân Phú, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"CHO THUÊ NHÀ NGUYÊN CĂN - MT HOÀNG DƯ KHƯƠNG, KHUÊ TRUNG, CẨM LỆ 8tr/th",Giá: 8 triệu / tháng,"Diện tích: 115 m
+2","Đường Hoàng Dư Khương, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",cho_thue_cua_hang
+"Cho thuê nhà phố mặt tiền đường lớn Lê Văn Thiêm Phú Mỹ Hưng, Quận 7. giá 58 triệu",Giá: 58 triệu / tháng,"Diện tích: 111 m
+2","Đường Lê Văn Thiêm, Phường Tân Phong, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+Cần cho thuê nhà phố Hưng Gia Phú Mỹ Hưng Quận 7 giá rẻ,Giá: 45 triệu / tháng,"Diện tích: 111 m
+2","Đường Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"Cho thuê gấp nhà phố Hưng Gia 4 Thích hợp kinh doanh Spa, nhà hàng...",Giá: 53 triệu / tháng,"Diện tích: 111 m
+2","Đường Bùi Bằng Đoàn, Phường Tân Phong, Quận 7, Hồ Chí Minh",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T2L ĐƯỜNG HUỲNH VĂN NGHỆ,P.BỬU LONG, BIÊN HÒA",Giá: 15 triệu / tháng,"Diện tích: 105 m
+2","Đường Huỳnh Văn Nghệ, Phường Bửu Long, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T2L (132M2) ĐƯỜNG D9 KHU DÂN CƯ D2D, BIÊN HÒA",Giá: 26 triệu / tháng,"Diện tích: 132 m
+2","Đường D9, Phường Thống Nhất, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+CHO THUÊ NHÀ THÍCH HỢP KINH DOANH ĐƯỜNG 30/4 GIÁ 25TR/THÁNG,Giá: 25 triệu / tháng,"Diện tích: 98 m
+2","Đường 30 Tháng 4, Phường Quyết Thắng, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T2L ĐƯỜNG LƯU VĂN VIẾT, P.TÂN TIẾN, BIÊN HÒA",Giá: 13 triệu / tháng,"Diện tích: 104 m
+2","Đường Lưu Văn Viết, Phường Tân Tiến, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T2L ĐƯỜNG D9 KHU DÂN CƯ D2D, TP. BIÊN HÒA",Giá: 18 triệu / tháng,"Diện tích: 72 m
+2","Đường D9, Phường Thống Nhất, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T2L MT ĐƯỜNG ĐỒNG KHỞI, P.TÂN HIỆP, BIÊN HÒA",Giá: 22 triệu / tháng,"Diện tích: 101 m
+2","Đường Đồng Khởi, Phường Tân Hiệp, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T3L ĐƯỜNG VÕ THỊ SÁU, P.THỐNG NHẤT, TP.BIÊN HÒA",Giá: 30 triệu / tháng,"Diện tích: 100 m
+2","Đường Võ Thị Sáu, Phường Thống Nhất, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T2L ĐƯỜNG NGUYỄN ÁI QUỐC, P.TÂN PHONG, BIÊN HÒA",Giá: 32 triệu / tháng,"Diện tích: 145 m
+2","Đường Nguyễn Ái Quốc, Phường Tân Phong, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T5L NGAY KHU DÂN CƯ D2D, P.THỐNG NHẤT, BIÊN HÒA",Giá: 35 triệu / tháng,"Diện tích: 72 m
+2","Đường Võ Thị Sáu, Phường Thống Nhất, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T4L MẶT TIỀN ĐƯỜNG ĐỒNG KHỞI, P.TAM HÒA, BIÊN HÒA",Giá: 35 triệu / tháng,"Diện tích: 101 m
+2","Đường Đồng Khởi, Phường Tân Hòa, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"CHO THUÊ NHÀ 1T4L ĐƯỜNG ĐỒNG KHỞI, P.TAM HÒA, BIÊN HÒA",Giá: 35 triệu / tháng,"Diện tích: 101 m
+2","Đường Đồng Khởi, Phường Tam Hòa, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"Cho thuê nhà 1 trệt 2 lầu ( 5x18m=90m2) đường Đồng Khởi, P.Tân Mai, Biên Hòa",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường Đồng Khởi, Phường Tân Mai, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang
+"Cho thuê nhà 1 trệt 2 lầu ( 5x18m=90m2) đường N1 khu dân cư D2D, TP.Biên Hòa",Giá: 22 triệu / tháng,"Diện tích: 90 m
+2","Đường N1, Phường Thống Nhất, Thành phố Biên Hoà, Đồng Nai",cho_thue_cua_hang

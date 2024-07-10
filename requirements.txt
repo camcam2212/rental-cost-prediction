@@ -1,0 +1,154 @@
+aiosqlite==0.19.0
+alembic==1.12.1
+annotated-types==0.6.0
+anyio==3.7.1
+apprise==1.6.0
+archspec @ file:///croot/archspec_1697725767277/work
+asgi-lifespan==2.1.0
+async-timeout==4.0.3
+asyncpg==0.29.0
+attrs==23.1.0
+blinker==1.7.0
+boltons @ file:///Users/cbousseau/work/recipes/ci_py311/boltons_1677965141748/work
+Brotli @ file:///Users/cbousseau/work/recipes/ci_py311/brotli-split_1677936346777/work
+cachetools==5.3.2
+certifi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_35eq66o3mo/croot/certifi_1700501684871/work/certifi
+cffi @ file:///Users/cbousseau/work/recipes/ci_py311/cffi_1677903595907/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cli-helpers==2.3.0
+click==8.1.7
+cloudpickle==3.0.0
+colorama==0.4.6
+conda @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e1pbeimigh/croot/conda_1701719523512/work
+conda-content-trust @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_5324skqvu9/croot/conda-content-trust_1693490622873/work
+conda-libmamba-solver @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c2fmjn55mo/croot/conda-libmamba-solver_1700150913462/work/src
+conda-package-handling @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_fc4cx8vjhj/croot/conda-package-handling_1690999937094/work
+conda_package_streaming @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_aecpaup22q/croot/conda-package-streaming_1690987978274/work
+configobj==5.0.8
+coolname==2.2.0
+croniter==2.0.1
+cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_905z2r5rpq/croot/cryptography_1694211573866/work
+dateparser==1.2.0
+db-dtypes==1.1.1
+distro @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_10ye1wu827/croot/distro_1701455019085/work
+dnspython==2.4.2
+docker==6.1.3
+email-validator==2.1.0.post1
+Flask==3.0.0
+fsspec==2023.10.0
+google-api-core==2.14.0
+google-api-python-client==2.108.0
+google-auth==2.23.4
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+google-cloud-bigquery==3.13.0
+google-cloud-bigquery-storage==2.22.0
+google-cloud-core==2.3.3
+google-cloud-storage==2.13.0
+google-crc32c==1.5.0
+google-resumable-media==2.6.0
+googleapis-common-protos==1.61.0
+graphviz==0.20.1
+greenlet==3.0.1
+griffe==0.38.0
+grpcio==1.59.3
+grpcio-status==1.59.3
+h11==0.14.0
+h2==4.1.0
+hpack==4.0.0
+httpcore==1.0.2
+httplib2==0.22.0
+httpx==0.25.1
+hyperframe==6.0.1
+idna @ file:///Users/cbousseau/work/recipes/ci_py311/idna_1677906072337/work
+itsdangerous==2.1.2
+Jinja2==3.1.2
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.1
+kubernetes==28.1.0
+libmambapy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_59l2npsw_8/croot/mamba-split_1698782625405/work/libmambapy
+Mako==1.3.0
+Markdown==3.5.1
+markdown-it-py==3.0.0
+MarkupSafe==2.1.3
+mdurl==0.1.2
+menuinst @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a2fxmxkg_z/croot/menuinst_1702390297906/work
+numpy==1.26.2
+oauthlib==3.2.2
+orjson==3.9.10
+outcome==1.3.0.post0
+packaging @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_6dm6d4jd_t/croot/packaging_1693575176524/work
+pandas==1.5.2
+pandas-gbq==0.18.1
+pathspec==0.11.2
+pendulum==2.1.2
+pgcli==4.0.1
+pgspecial==2.1.1
+platformdirs @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a8u4fy8k9o/croot/platformdirs_1692205661656/work
+pluggy @ file:///Users/cbousseau/work/recipes/ci_py311/pluggy_1677906980825/work
+prefect-gcp==0.2.4
+prefect-sqlalchemy==0.2.2
+prompt-toolkit==3.0.41
+proto-plus==1.22.3
+protobuf==4.21.11
+psycopg==3.1.13
+psycopg-binary==3.1.13
+psycopg-pool==3.2.0
+psycopg2-binary==2.9.5
+pyarrow==10.0.1
+pyasn1==0.5.1
+pyasn1-modules==0.3.0
+pycosat @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_3eg8vdcs6z/croot/pycosat_1696536519213/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==2.5.2
+pydantic_core==2.14.5
+pydata-google-auth==1.8.2
+Pygments==2.17.2
+pyOpenSSL @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b8whqav6qm/croot/pyopenssl_1690223428943/work
+pyparsing==3.1.1
+PySocks @ file:///Users/cbousseau/work/recipes/ci_py311/pysocks_1677906386870/work
+python-dateutil==2.8.2
+python-slugify==8.0.1
+pytz==2023.3.post1
+pytzdata==2020.1
+PyYAML==6.0.1
+readchar==4.0.5
+referencing==0.31.0
+regex==2023.10.3
+requests @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_54zi68h2nb/croot/requests_1690400233316/work
+requests-oauthlib==1.3.1
+rich==13.7.0
+rpds-py==0.13.1
+rsa==4.9
+ruamel.yaml @ file:///Users/cbousseau/work/recipes/ci_py311/ruamel.yaml_1677934845850/work
+selenium==4.16.0
+setproctitle==1.3.3
+six==1.16.0
+sniffio==1.3.0
+sortedcontainers==2.4.0
+SQLAlchemy==1.4.46
+sqlparse==0.4.4
+starlette==0.32.0.post1
+tabulate==0.9.0
+text-unidecode==1.3
+toml==0.10.2
+tqdm @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ac7zic_tin/croot/tqdm_1679561870178/work
+trio==0.23.2
+trio-websocket==0.11.1
+truststore @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_42mm7e6j06/croot/truststore_1695244298716/work
+typer==0.9.0
+typing_extensions==4.8.0
+tzlocal==5.2
+ujson==5.8.0
+uritemplate==4.1.1
+urllib3 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_068obtb882/croot/urllib3_1698257558009/work
+uvicorn==0.24.0.post1
+wcwidth==0.2.12
+websocket-client==1.6.4
+websockets==12.0
+Werkzeug==3.0.1
+wget==3.2
+wsproto==1.2.0
+zstandard @ file:///Users/cbousseau/work/recipes/ci_py311_2/zstandard_1678996192313/work
