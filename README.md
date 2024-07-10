@@ -7,10 +7,11 @@ Thư mục code này chứa các thành phần chính để thu thập dữ li�
 Repo này hiện crawl tại một số trang batdongsan.com.vn, alonhadat, sosanhnha, nhapho.net,... Từ đó xây dựng các pipeline crawl 1-2 tuần / lần cho các mục tiêu của KV như Lending, MI.
 
 ## Kết quả
-| Title | Price | Area | City | District | Ward | Street| Type |
-|-------|-------|-------|-------|-------|------|------|------|
-| Chính chủ cho thuê duplex full gỗ ngay cầu vượt Hoàng Hoa Thám gần đại học Học Viện Hàng Không. | 3,5 triệu/tháng | 28 m² | Tân Bình, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
-| Phòng cho thuê ở Tô Hiến Thành, Quận 10 - Đại học Huflit - Vạn Hạnh Mall | 6,6 triệu/tháng | 28 m² | Quận 10, Hồ Chí Minh | cho-thue-nha-tro-phong-tro |
+| Price | Area | City | District | Ward | Street| price_per_m2 |
+|-------|------|------|----------|------|-------|--------------|
+| 250 triệu | 200 m2 | Hà Nội | Hoàn Kiếm | Hàng Bạc | Đinh Tiên Hoàng | 1,250,000 đồng
+| 30 triệu | 80 m2 | Hồ Chí Minh | Thủ Đức | Long Thạnh Mỹ | Nguyễn Xiển | 375,000 đồng
+
 
 ## Các File Chính
 
